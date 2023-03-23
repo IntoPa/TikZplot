@@ -1,0 +1,3 @@
+% Width and height of the plot in inches
+figurewidth, 7
+figureheight, 5

@@ -1,0 +1,4 @@
+LineWidth,2
+LineStyle,-
+Marker,none
+MarkerSize,6
